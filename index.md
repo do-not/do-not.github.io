@@ -1,4 +1,4 @@
-# Welcome to do!not.org
+# Welcome to `do!not.org`
 
 ## To the first & original technical [opt-out](https://en.wikipedia.org/wiki/opt-out) solution!
 
