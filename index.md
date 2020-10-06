@@ -15,7 +15,7 @@
 
 ## support us
 
-### [🛒 shop @ spreadshirt.de](https://shop.spreadshirt.de/do-not/)
+### [🛒 shop @ spreadshirt.de](https://shop.spreadshirt.net/do-not/)
 
 ## about
 
