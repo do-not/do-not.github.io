@@ -14,12 +14,6 @@
 ### do!not/enter
 ### do!not/reply
 
-## reference
-
-| who | what |
-|:---:|:----:|
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Johanniter-Unfall-Hilfe_logo.svg/240px-Johanniter-Unfall-Hilfe_logo.svg.png) |[gaffen-toetet.de](https://www.gaffen-toetet.de)|
-
 ## support us
 
 ### [🛒 shop @ spreadshirt](https://shop.spreadshirt.net/do-not/)
