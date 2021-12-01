@@ -22,7 +22,7 @@
 
 ## who we are
  - HK E-Commerce am Niederrhein GbR
- - Markus Tiede - https://open-co.de
+ - Markus Tiede - [https://open-co.de](https://open-co.de/about.html)
 
 ### naming: ```do!not```
 
