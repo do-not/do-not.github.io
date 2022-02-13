@@ -17,3 +17,5 @@
 ## support us
 
 ### [🛒 shop @ spreadshirt](https://do-not.myspreadshop.net)
+
+## [about us](about.md)
